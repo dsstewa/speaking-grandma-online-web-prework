@@ -5,10 +5,10 @@ binding.pry
   if word == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
   
-  elsif word == word.upcase
-    puts "NO, NOT SINCE 1938!"
-  else
-    puts "HUH?! SPEAK UP, SONNY!"
+ # elsif word == word.upcase
+ #   puts "NO, NOT SINCE 1938!"
+ # else
+ #   puts "HUH?! SPEAK UP, SONNY!"
   end
 end
 
