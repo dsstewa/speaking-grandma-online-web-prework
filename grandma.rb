@@ -2,6 +2,7 @@
 
 def speak_to_grandma(word)
   if word == word.upcase
+    puts ""
 end
 
 
