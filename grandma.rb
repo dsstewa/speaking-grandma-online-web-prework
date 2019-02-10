@@ -1,5 +1,5 @@
 # Write a speak_to_grandma method.
-
+require 'pry'
 def speak_to_grandma(word)
   binding.pry
   if word == "I LOVE YOU GRANDMA!"
