@@ -1,7 +1,7 @@
 # Write a speak_to_grandma method.
 require 'pry'
 def speak_to_grandma(word)
-binding.pry
+
   if word == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TOO PUMPKIN!"
   
@@ -10,6 +10,7 @@ binding.pry
  # else
  #   puts "HUH?! SPEAK UP, SONNY!"
   end
+  binding.pry
 end
 
 
