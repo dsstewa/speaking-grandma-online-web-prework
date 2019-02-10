@@ -3,7 +3,7 @@ require 'pry'
 def speak_to_grandma(word)
 
   if word == "I LOVE YOU GRANDMA!"
-  puts "I LOVE YOU TOO PUMPKIN!"
+  "I LOVE YOU TOO PUMPKIN!"
   
  # elsif word == word.upcase
  #   puts "NO, NOT SINCE 1938!"
